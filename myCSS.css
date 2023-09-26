@@ -21,7 +21,7 @@ a:hover, a:active, a:focus {
 }
 .header {
 	background: #D0E3FA;
-	font: cursive;
+   	font: 100%/1.4 cursive;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
